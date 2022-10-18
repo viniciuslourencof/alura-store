@@ -10,17 +10,14 @@
     grid-template-rows: 50px 100vh auto;
 }
 
-.cabecalho {
-    background-color: green;
+.cabecalho {    
     grid-area: cabecalho;
 }
  
-.conteudo {
-    background-color: rosybrown;
+.conteudo {    
     grid-area: conteudo;
 }
 
-.rodape {
-    background-color: blue;
+.rodape {    
     grid-area: rodape;
 }
